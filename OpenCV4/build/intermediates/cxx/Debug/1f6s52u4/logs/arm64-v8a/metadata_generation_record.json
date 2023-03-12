@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -641157012
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\Debug\\1f6s52u4\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1088135129
+  },
+  {
+    "level_": 0,
+    "message_": "- a hard configure file changed, will remove stale configuration folder",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1719424693
+  },
+  {
+    "level_": 0,
+    "message_": "  - C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\Debug\\1f6s52u4\\arm64-v8a\\metadata_generation_command.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1417487850
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\Debug\\1f6s52u4\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -4783771
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\Debug\\1f6s52u4\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 550924401
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1f6s52u4\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1f6s52u4\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\.cxx\\\\Debug\\\\1f6s52u4\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 537852316
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\003454661\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1f6s52u4\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1f6s52u4\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\003454661\\\\Documents\\\\Universidad\\\\Vision_por_Objetos\\\\OpenCVProject\\\\OpenCV4\\\\.cxx\\\\Debug\\\\1f6s52u4\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1288217893
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\Debug\\1f6s52u4\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 414658375
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 588726648
+  },
+  {
+    "level_": 0,
+    "message_": "deleted unexpected build output C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\build\\intermediates\\cxx\\Debug\\1f6s52u4\\obj\\arm64-v8a\\libc++_shared.so in incremental regenerate",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1009943960
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\Debug\\1f6s52u4\\arm64-v8a\\compile_commands.json to C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\.cxx\\tools\\debug\\arm64-v8a\\compile_commands.json",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1865544567
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\003454661\\Documents\\Universidad\\Vision_por_Objetos\\OpenCVProject\\OpenCV4\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1768167564
+  }
+]
